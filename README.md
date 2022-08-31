@@ -22,6 +22,12 @@ When you set display property to none that remove that content from the dom thus
 
 ### How to make popover menu?
 
+
+### Tailwind CSS Style Form Element
+* [Styling Forms with Tailwind CSS](https://www.youtube.com/watch?v=pONeWAzDsQg) | [source-code](https://play.tailwindcss.com/oOpq1MifsS)
+
+> An extra plugins need to be installed `npm install @tailwindcss/forms`
+
 ## Resource
 * [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle)
 * [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
