@@ -35,3 +35,4 @@ When you set display property to none that remove that content from the dom thus
 * [How To Make Tooltips With Only CSS](https://www.youtube.com/watch?v=ujlpzTyJp-M)
 * [Tailwind CSS Tutorial](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 * [Tailwind Crash Course | Project From Scratch](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+* [Tailwind Just in Time Tutorial #1 - Introduction](https://www.youtube.com/watch?v=aQS7kaje-24&list=PL4cUxeGkcC9ht1OMQPhBVKAb2dVLhg-MJ)
