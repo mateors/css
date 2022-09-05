@@ -2,9 +2,8 @@
 
 ## Get started
 Download the tailwindcss standalone-cli from https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.1.8
-windows user download from [here](https://github.com/tailwindlabs/tailwindcss/releases/download/v3.1.8/tailwindcss-windows-x64.exe)
-
-after download rename it to tailwindcss (because everytime you use this to interact with your terminal)
+windows user download from [here](https://github.com/tailwindlabs/tailwindcss/releases/download/v3.1.8/tailwindcss-windows-x64.exe).
+After download rename it to `tailwindcss` (because everytime you use this to interact with your terminal)
 
 
 ## Step-1 Create a tailwind.config.js file
@@ -17,10 +16,11 @@ after download rename it to tailwindcss (because everytime you use this to inter
 `./tailwindcss -i input.css -o output.css --minify`
 
 
-> to use first-party plugins
+> To use first-party plugins (directly from tailwindcss)
+
 just require them in your `tailwind.config.js` file like you would in a Node-based project:
 
-```
+```js
 module.exports = {
   // ...
   plugins: [
