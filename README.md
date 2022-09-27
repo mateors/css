@@ -29,6 +29,7 @@ When you set display property to none that remove that content from the dom thus
 > An extra plugins need to be installed `npm install @tailwindcss/forms`
 
 ## Resource
+* [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 * [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle)
 * [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
 * [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
