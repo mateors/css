@@ -30,6 +30,7 @@ When you set display property to none that remove that content from the dom thus
 
 ## Resource
 * [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+* [HTML & CSS Crash Course Tutorial](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 * [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle)
 * [Learn CSS Box Model In 8 Minutes](https://www.youtube.com/watch?v=rIO5326FgPE)
 * [Learn CSS Position In 9 Minutes](https://www.youtube.com/watch?v=jx5jmI0UlXU)
