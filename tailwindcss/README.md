@@ -63,6 +63,7 @@ tailwindcss init --full
 * [Standalone-cli guide](https://tailwindcss.com/blog/standalone-cli)
 * [Download standalone-cli](https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.1.8)
 * [Tailwind Crash Course | Project From Scratch](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+* [Build a Modern Landing Page With Tailwind CSS](https://www.youtube.com/watch?v=00gyCtIQp8E)
 * [The Net Ninja|Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 * [Tailwind Just in Time Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ht1OMQPhBVKAb2dVLhg-MJ)
 * [Styling Forms with Tailwind CSS](https://www.youtube.com/watch?v=pONeWAzDsQg)
