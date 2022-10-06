@@ -41,3 +41,4 @@ When you set display property to none that remove that content from the dom thus
 * [Tailwind Just in Time Tutorial #1 - Introduction](https://www.youtube.com/watch?v=aQS7kaje-24&list=PL4cUxeGkcC9ht1OMQPhBVKAb2dVLhg-MJ)
 * [Figma To HTML Part-1](https://www.youtube.com/watch?v=rRcKgrM4kzE)
 * [Figma To HTML Part-2](https://www.youtube.com/watch?v=DJ0Xad60pTM)
+* [Tinymce Editor](https://github.com/tinymce/tinymce)
