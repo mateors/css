@@ -30,6 +30,7 @@ When you set display property to none that remove that content from the dom thus
 
 ## Resource
 * [HTML Master Course for beginners](https://www.youtube.com/playlist?list=PLZij6bgEHkTWmiVApgI0Nvwqd8KC6LlzU)
+* [HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 * [CSS Tutorial - Zero to Hero](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 * [HTML & CSS Crash Course Tutorial](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 * [CSS Triangle](https://css-tricks.com/snippets/css/css-triangle)
