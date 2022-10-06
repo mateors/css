@@ -42,3 +42,4 @@ When you set display property to none that remove that content from the dom thus
 * [Figma To HTML Part-1](https://www.youtube.com/watch?v=rRcKgrM4kzE)
 * [Figma To HTML Part-2](https://www.youtube.com/watch?v=DJ0Xad60pTM)
 * [Tinymce Editor](https://github.com/tinymce/tinymce)
+* [Library for manipulating and animating SVG](https://svgjs.dev/docs/3.0/)
