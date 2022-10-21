@@ -60,6 +60,7 @@ tailwindcss init --full
 
 
 ## Resource
+* [Tailwind CSS Bangla Tutorial Series](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2)
 * [Standalone-cli guide](https://tailwindcss.com/blog/standalone-cli)
 * [Download standalone-cli](https://github.com/tailwindlabs/tailwindcss/releases/tag/v3.1.8)
 * [Tailwind Crash Course | Project From Scratch](https://www.youtube.com/watch?v=dFgzHOX84xQ)
