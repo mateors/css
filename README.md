@@ -46,3 +46,4 @@ When you set display property to none that remove that content from the dom thus
 * [Library for manipulating and animating SVG](https://svgjs.dev/docs/3.0/)
 * https://github.com/thomaswruss/workflow-svg.js
 * [Html5-CSS-Crash-Course](https://drive.google.com/file/d/1_Foacwz1JkYD36CWHoxDtqi3CoQkOdiP/view)
+* [Figma tutorial for Beginners: Complete Website from Start to Finish](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)
