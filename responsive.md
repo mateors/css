@@ -29,7 +29,7 @@ Use media queries to fine-tune layout and typography for ultra-wide resolutions:
 }
 ```
 
-###📏 3. Use Responsive Units
+### 📏 3. Use Responsive Units
 Favor em, rem, vw, and vh over fixed px values to ensure scalability:
 
 * clamp() is especially useful for fluid typography:
@@ -40,7 +40,7 @@ h1 {
 ```
 Explore more in You Should Know These [7 CSS Responsive Sizing Features](https://www.youtube.com/watch?v=1AyiCquK8zY), which breaks down `minmax()`, fit-content, and `clamp()` with examples.
 
-###🧰 4. Set Breakpoints Thoughtfully
+### 🧰 4. Set Breakpoints Thoughtfully
 Define breakpoints that include ultra-wide screens:
 ```css
 @media (min-width: 2560px) {
@@ -51,7 +51,7 @@ Define breakpoints that include ultra-wide screens:
 ```
 The video [24 | MAKE A WEBSITE RESPONSIVE FOR ALL DEVICES ...](https://www.youtube.com/watch?v=UUjNEMXZA-k) walks through setting up breakpoints and media queries for various screen sizes.
 
-###🖥️ 5. Design for Large Displays
+### 🖥️ 5. Design for Large Displays
 Use wrappers and containers to control layout width and padding. The video [Designing for larger displays — CSS layout tutorial](https://www.youtube.com/watch?v=5KJMD2GnBsg) demonstrates how to:
 
 * Wrap sections with a `div`
@@ -60,7 +60,7 @@ Use wrappers and containers to control layout width and padding. The video [Desi
 
 This ensures your content doesn’t feel lost in whitespace on 2K/4K screens.
 
-###🧪 6. Test Across Devices
+### 🧪 6. Test Across Devices
 Use browser dev tools and tools like Lighthouse to simulate large screens and check layout behavior. Also consider:
 
 * Setting `viewport` meta tag correctly
