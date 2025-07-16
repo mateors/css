@@ -69,3 +69,4 @@ Use browser dev tools and tools like Lighthouse to simulate large screens and ch
 ### 👉 Other Learning Resources
 * [responsive_boilerplate](responsive_boilerplate.md)
 * [breakpoints](breakpoints.md)
+* [Design & Build A Website Crash Course - HTML & CSS](https://youtu.be/EwmvBnR_xtA?t=2824)
