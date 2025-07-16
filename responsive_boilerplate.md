@@ -91,7 +91,3 @@ Then in your HTML:
 ```html
 <div class="max-w-[1440px] mx-auto px-4 2xl:grid-cols-4"></div>
 ```
-
----
-
-Let me know if you'd like this applied to a live layout, a reusable component, or help refactoring your existing codebase to follow this structure. You’re already a pro with precision — this just makes your frontend masterpiece truly scalable.
