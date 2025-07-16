@@ -1,7 +1,7 @@
 ## Responsive Design Guideline
 Designing for ultra-wide screens like 2K and 4K requires a thoughtful balance between responsiveness and readability. Here's a practical guide to help you build CSS layouts that scale beautifully without stretching too far:
 
-### 1. Use a Max-Width Container
+### 🧱 1. Use a Max-Width Container
 Wrap your content in a container with a max-width to prevent it from expanding endlessly on large screens:
 
 ```css
