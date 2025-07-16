@@ -50,3 +50,20 @@ Define breakpoints that include ultra-wide screens:
 }
 ```
 The video [24 | MAKE A WEBSITE RESPONSIVE FOR ALL DEVICES ...](https://www.youtube.com/watch?v=UUjNEMXZA-k) walks through setting up breakpoints and media queries for various screen sizes.
+
+###🖥️ 5. Design for Large Displays
+Use wrappers and containers to control layout width and padding. The video [Designing for larger displays — CSS layout tutorial](https://www.youtube.com/watch?v=5KJMD2GnBsg) demonstrates how to:
+
+* Wrap sections with a `div`
+* Style and center the wrapper
+* Apply consistent padding
+
+This ensures your content doesn’t feel lost in whitespace on 2K/4K screens.
+
+###🧪 6. Test Across Devices
+Use browser dev tools and tools like Lighthouse to simulate large screens and check layout behavior. Also consider:
+
+* Setting `viewport` meta tag correctly
+* Avoiding fixed widths for layout elements
+
+
