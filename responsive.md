@@ -66,6 +66,6 @@ Use browser dev tools and tools like Lighthouse to simulate large screens and ch
 * Setting `viewport` meta tag correctly
 * Avoiding fixed widths for layout elements
 
-### Other Learning Resources
+### 👉 Other Learning Resources
 * [responsive_boilerplate](responsive_boilerplate.md)
 * [breakpoints](breakpoints.md)
